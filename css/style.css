@@ -1,0 +1,42 @@
+img {
+   max-width: 400px;
+}
+span {
+   color: orangered;
+}
+.morning {
+   color: rgb(78, 34, 120);
+}
+#scammer {
+   color: rgb(51, 27, 73);
+}
+h2 {
+   color: rgb(62, 22, 100);
+}
+h3.title {
+   color: brown;
+}
+.kuzma.daytime {
+   color: rgb(18, 78, 10);
+}
+header, footer {
+   color: grey;
+}
+.morning a {
+   color: #8B0000;
+}
+.evening .first-victim {
+   color: #191970;
+}
+.evening * {
+   color: rgb(83, 50, 21);
+}
+.daytime > p {
+   color: #0b7126;
+}
+.first-victim + p {
+   color: rgba(146, 113, 23, 0.932);
+}
+.scutigera ~ p {
+   color: rgb(22, 117, 34);
+}
